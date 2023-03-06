@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="homework1_edittext" type="id" />
+    <item name="homework2_edittext" type="id" />
+    <item name="homework3_edittext" type="id" />
+    <item name="homework4_edittext" type="id" />
+    <item name="homework5_edittext" type="id" />
+    <item name="participation_edittext" type="id" />
+    <item name="midterm1_edittext" type="id" />
+    <item name="midterm2_edittext" type="id" />
+    <item name="group_project_edittext" type="id" />
+    <item name="final_exam_edittext" type="id" />
+    <item name="grade_textview" type="id" />
+    <item name="calculate_button" type="id" />
+</resources>

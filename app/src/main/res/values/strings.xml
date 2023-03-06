@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MYHW</string>
+    <string name="homework_label">Homework</string>
+    <string name="participation_label">Participation</string>
+    <string name="midterm1_label">Midterm 1</string>
+    <string name="midterm2_label">Midterm 2</string>
+    <string name="group_project_label">Group Project</string>
+    <string name="final_label">Final</string>
+    <string name="calculate_button_text">Calculate Grade</string>
+    <string name="grade_error_message">Please enter valid grades between 0 and 100.</string>>
+    <string name="final_grade_message">Your final grade is %.2f.</string>
+
+</resources>
